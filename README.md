@@ -18,6 +18,6 @@ JS
 ![4](https://github.com/user-attachments/assets/dff0f749-4109-4b53-9ede-e080ed292639)
 The player tries to guess a randomly generated number by entering their input in the input box. If the guessed number matches the system-generated number, the player wins. For example, if the player guesses the number 5 correctly, they win, and the remaining chances (e.g., 7 chances left) are displayed.
 
-![5](="https://github.com/user-attachments/assets/bef18fe0-f841-43b3-8bd8-5afd3376ea7c" )
+![5](https://github.com/user-attachments/assets/bef18fe0-f841-43b3-8bd8-5afd3376ea7c)
 
 If the player’s guessed number is incorrect, one chance is reduced. For example, if the player guesses 7 and it does not match the system-generated number, the remaining chances decrease. The player has a total of 10 attempts, and if they fail to guess the correct number within these attempts, the game ends with a “Game Over” message.
